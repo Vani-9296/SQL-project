@@ -9,7 +9,6 @@ The queries focus on filtering, sorting, grouping, counting, pattern matching, a
 ## Tools used
 - SQL Server Management Studio (SSMS)
 - SQL Server
-- GitHub
 
 ## Dataset
 - Netflix titles dataset

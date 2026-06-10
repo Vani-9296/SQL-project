@@ -1,4 +1,4 @@
-# Netflix SQL Project
+# SQL Project
 
 This project contains SQL practice queries written in SQL Server Management Studio (SSMS) using the Netflix titles dataset.
 
